@@ -10,5 +10,5 @@ setup(
     author="Adrián L. G. P.",
     author_email="adgimenezp@gmail.com",
     url="https://github.com/byAd12/byAd12-Library.git",
-    install_requires=["ping3", "threading"]
+    install_requires=["ping3"]
 )

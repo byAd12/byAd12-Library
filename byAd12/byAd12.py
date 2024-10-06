@@ -46,3 +46,31 @@ def Ping_Flood_(IPv4):
             return "Error"
     #-
     return "Cancelled"
+
+##########################################################################################
+##########################################################################################
+
+def byAd12_Info_():
+    return print("""
+byAd12-library - v1.0
+
+Project:
+\tPyPi:    https://pypi.org/project/byAd12-library/
+\tInstall: pip install byAd12-library
+
+Author:
+\tWebsite: https://byAd12.pages.dev
+\tMail:    adgimenezp@gmail.com
+
+Functions:
+\tPing_Flood_(IPv4)\n\tSend massive ping (ICMP messages) to a target (Local or a Server) with the IPv4.
+\tbyAd12_Info_()\n\tCheck the information about the library.
+
+Requiremets:
+\tthreading: pip install threading
+\tping3:     pip install ping3
+""")
+byAd12_Info_()
+
+##########################################################################################
+##########################################################################################
