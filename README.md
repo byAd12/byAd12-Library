@@ -1,1 +1,5 @@
-# byAd12-Library
+
+
+'''
+pip install byAd12
+'''
