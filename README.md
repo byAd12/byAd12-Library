@@ -1,5 +1,5 @@
 
-# byAd12-library - v1.0
+# byAd12-library - v1.1
 
 **byAd12-library** helps you doing a ICMP (ping) attack to a specific target.
 Feel free to open an issue or a pull request in the repository.
