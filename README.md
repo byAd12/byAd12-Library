@@ -1,5 +1,5 @@
 
-# byAd12-library - v1.2
+# byAd12-library - v1.2.1
 
 **byAd12-library** helps you doing a ICMP (ping) attack to a specific target.
 Feel free to open an issue or a pull request in the repository.
@@ -41,9 +41,7 @@ from byAd12_library import Ping_Flood_, byAd12_Info_, david_
 
 Ping_Flood_("192.168.1.1") # Send massive pings
 
-
 byAd12_Info_() # Get information about the library
-
 
 david_("text") # Adds 2 points ("..") at the end of the string
 ```
