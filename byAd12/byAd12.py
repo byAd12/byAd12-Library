@@ -70,7 +70,19 @@ Requiremets:
 \tthreading: pip install threading
 \tping3:     pip install ping3
 """)
-byAd12_Info_()
+
+##########################################################################################
+##########################################################################################
+
+def david(texto):
+    if texto.endswith("..."):
+        return print(texto.split(".")[0] + "..")
+    elif texto.endswith(".."):
+        return print(texto)
+    elif texto.endswith("."):
+        return print(texto.split(".")[0] + "..")
+    else:
+        return print(texto + "..")
 
 ##########################################################################################
 ##########################################################################################

@@ -25,6 +25,9 @@ Sends massive pings (ICMP messages) to a target (local or server) using IPv4.
 - `byAd12_Info_()`
 Provides information about the library.
 
+- `byAd12_Info_()`
+Adds 2 points ("..") at the end of the string.
+
 ## Required Dependencies
 
 - **pip install threading**
@@ -33,11 +36,14 @@ Provides information about the library.
 ## Example
 
 ```python
-from byAd12_library import Ping_Flood_, byAd12_Info_
+from byAd12_library import Ping_Flood_, byAd12_Info_, david
 
 
 Ping_Flood_("192.168.1.1") # Send massive pings
 
 
 byAd12_Info_() # Get information about the library
+
+
+david("text") # Adds 2 points ("..") at the end of the string
 ```
