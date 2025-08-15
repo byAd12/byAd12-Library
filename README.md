@@ -44,4 +44,7 @@ Ping_Flood_("192.168.1.1") # Send massive pings
 byAd12_Info_() # Get information about the library
 
 david_("text") # Adds 2 points ("..") at the end of the string
+
 ```
+
+<a href="https://pepy.tech/projects/byad12-library"><img src="https://static.pepy.tech/badge/byad12-library" alt="PyPI Downloads"></a>
