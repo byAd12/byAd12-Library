@@ -4,6 +4,8 @@
 **byAd12-library** helps you doing a ICMP (ping) attack to a specific target.
 Feel free to open an issue or a pull request in the repository.
 
+<a href="https://pepy.tech/projects/byad12-library"><img src="https://static.pepy.tech/badge/byad12-library?style=social" alt="PyPI Downloads"></a>
+
 ## Project
 
 - **PyPi**: [https://pypi.org/project/byAd12-library/](https://pypi.org/project/byAd12-library/)
@@ -46,5 +48,3 @@ byAd12_Info_() # Get information about the library
 david_("text") # Adds 2 points ("..") at the end of the string
 
 ```
-
-<a href="https://pepy.tech/projects/byad12-library"><img src="https://static.pepy.tech/badge/byad12-library" alt="PyPI Downloads"></a>
